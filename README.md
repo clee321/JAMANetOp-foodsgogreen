@@ -26,7 +26,7 @@ Project folders-files/
 │
 ├── Data/
 │   └──Foods Go Green RCT.xlsx
-|   └──Menu data ofcom.dta
+│   └──Menu data ofcom.dta
 │
 └── Results/
 ```
